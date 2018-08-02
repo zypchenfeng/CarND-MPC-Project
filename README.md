@@ -1,3 +1,21 @@
+
+Detail answering the Rubric please see WriteUp_FC.md file
+The video is on youtube https://youtu.be/Hf6WXz9tHnc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # CarND-Controls-MPC
 Self-Driving Car Engineer Nanodegree Program
 
